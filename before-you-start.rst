@@ -3,7 +3,7 @@ Before you start
 
 
 .. list-table::
-   :widths: 25 50 25
+   :widths: 2 5 2
    :header-rows: 0
 
    * - **Scratchpads platform**
