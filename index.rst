@@ -1,19 +1,13 @@
 Scratchpads Training
 ====================
 
-Another header
-==============
-
-TEXT
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    before-you-start
    getting-started
-
+   logging-in
 
 
 Indices and tables
