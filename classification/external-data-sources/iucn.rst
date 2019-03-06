@@ -1,8 +1,8 @@
-Linking to IUCN
-===============
+IUCN
+----
 
-Instructions
-------------
+Enabling the widget
+~~~~~~~~~~~~~~~~~~~
 
 1. From the administration menu bar got to *Structure > Tools*
 2. Find the Widgets section

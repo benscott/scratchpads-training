@@ -1,8 +1,5 @@
-Linking to BHL
-==============
-
-Instructions
-------------
+Biodiversity Heritage Library
+-----------------------------
 
 Enabling the widget
 ~~~~~~~~~~~~~~~~~~~
@@ -16,7 +13,7 @@ Accessing widget results
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Once enabled, the widget will be visible as a new section called
-*Biodiversity Heritage Library* in the *References* tab of a taxon page.
+*Biodiversity Heritage Library* in the *Literature* tab of a taxon page.
 
 1. Find the taxon you are interested in by browsing your classification
 

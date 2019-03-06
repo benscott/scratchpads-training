@@ -31,13 +31,7 @@ When the import is complete, the overlay will report the number of terms created
 Viewing classification
 ----------------------
 
-To view your new classification and the taxon pages close the overlay and go to the new tab with the classification's name in the *Main menu*.
-
-On the left side of the page you can browse the classification. Navigate by clicking on the plus icons to view child taxa and clicking on a taxon name to open the respective taxon page.
-
-
-
-If you close this overlay, you should now see a link in the *Main menu* of your site linking to the taxon pages. You can learn more about how to use the taxonomic editor on the :doc:`/taxonomy/editing-classification`) page.
+To view your new classification and the taxon pages, close the overlay and go to the new tab with the classification's name in the *Main menu* - see :doc:`/classification/viewing-classification`.
 
 
 .. _Catalogue of Life: http://www.catalogueoflife.org/col/

@@ -10,7 +10,7 @@ Creating a new classification
 In order to import data from the WoRMS service you will need first to
 have set up a new biological classification that will be used to hold
 imported the taxonomic terms. You can find detailed documentation on how
-to do so in the :doc:`/taxonomy/biological-classification` page.
+to do so in the :doc:`/classification/biological-classification` page.
 
 Enabling the WoRMS importer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

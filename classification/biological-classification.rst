@@ -43,14 +43,14 @@ Adding terms
 
 Having created a vocabulary you now need to add the list of terms (names). 
 
-This can be done by either importing a classification through the Scratchpads Classification Service (see :doc:`/taxonomy/importing-classification`), or by creating and importing your own
-classification from Excel (see :doc:`/taxonomy/importing-excel-classification`). Alternatively
-you can add terms one by one by clicking on *Add terms* when you are on the *Taxonomy* admin page or by using the taxonomic editor (see :doc:`/taxonomy/editing-classification`).
+This can be done by either importing a classification through the Scratchpads Classification Service (see :doc:`/classification/importing-classification`), or by creating and importing your own
+classification from Excel (see :doc:`/classification/importing-excel-classification`). Alternatively
+you can add terms one by one by clicking on *Add terms* when you are on the *Taxonomy* admin page or by using the taxonomic editor (see :doc:`/classification/editing-classification`).
 
 
 .. only:: training
 
-    On this training course, we will first look at importing a classification :doc:`/taxonomy/importing-classification`.
+    On this training course, we will first look at importing a classification :doc:`/classification/importing-classification`.
 
 
 Troubleshooting

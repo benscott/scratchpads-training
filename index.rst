@@ -21,17 +21,18 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Adding and managing taxonomies
+   :caption: Adding and managing classifications
 
-   taxonomy/biological-classification
-   taxonomy/importing-classification
+   classification/biological-classification
+   classification/importing-classification
+   classification/viewing-classification
+   classification/editing-classification
+   classification/itis-standard-fields
+   classification/importing-excel-classification
+   classification/deleting-classification
+   classification/integrating-external-data
+   classification/filtering-names
 
-..    taxonomy/viewing-classification
-..    taxonomy/editing-classification
-..    taxonomy/deleting-classification
-..    taxonomy/importing-classification
-..    taxonomy/importing-excel-classification
-..    taxonomy/itis-standard-fields
 
 .. toctree::
    :maxdepth: 1

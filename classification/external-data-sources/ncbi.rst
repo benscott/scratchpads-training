@@ -1,8 +1,5 @@
-Linking to NCBI
-===============
-
-Instructions
-------------
+NCBI
+----
 
 Enabling the widget
 ~~~~~~~~~~~~~~~~~~~
@@ -18,11 +15,12 @@ Accessing widget results
 Once enabled, the widget will be visible as a new section called NCBI in
 the Description tab of your taxonomy viewer.
 
--  A table will provide results associated with a taxon from all NCBI’s
+1. A table will provide results associated with a taxon from all NCBI’s
    databases; including Nucleotides and Proteins.
 
-1. Click on the Subtree or Direct links number to directly access the
+2. Click on the Subtree or Direct links number to directly access the
    NCBI data
+
 2. Click on External links to expand it. These links are taxon related
    links to other third party resources, as provided by the NCBI API.
 
