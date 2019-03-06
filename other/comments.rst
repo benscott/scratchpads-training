@@ -21,7 +21,7 @@ Control comments access level
 Maintainers can change the roles that are permitted to submit comments
 to a site.
 
-1. From the `Admin menu`_ go to *People*
+1. From the :term:`Admin menu` go to *People*
 
 2. Under *Comment* select the user groups, according to their roles,
    that you wish to be able to post comments
@@ -38,7 +38,7 @@ Enable comments for specific content types
 Enabling comments for specific content types will not override the
 access level settings described in the previous section.
 
-1. From the `Admin menu`_ go to *Structure > Content types*
+1. From the :term:`Admin menu` go to *Structure > Content types*
 2. Click *edit* next to the content type you wish to modify comment
    settings
 3. Select *Comment settings* from the vertical tab menu
@@ -56,7 +56,7 @@ You can modify the settings that define when someone should be notified,
 via email, when a new comment is posted and also how the notification
 email is drafted.
 
-1. From the `Admin menu`_ go to *Configuration > Comment notify*
+1. From the :term:`Admin menu` go to *Configuration > Comment notify*
 2. Change settings accordingly and click *Save configuration*
 
 Managing comments

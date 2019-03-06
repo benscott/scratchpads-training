@@ -1,11 +1,8 @@
 Import locations
 ================
 
-Instructions
-------------
-
 Excel file imports can be used either for creating new nodes or for
-updating existing ones. Check the :doc:`/import/content` page for more general info.
+updating existing ones. Please see the :doc:`/import/content` page for more general info.
 
 To download the template file (for new data or for updating your data)
 
@@ -16,11 +13,9 @@ To download the template file (for new data or for updating your data)
    scratchpad data)
 -  Open the downloaded excel file in your computer and edit it
 
-**Complete the columns as follows:**
+.. figure:: /_static/Import_locations_p1.png
 
-[
-600px](https://github.com/NaturalHistoryMuseum/scratchpads-help-files/raw/master/files/import_locations_p1.png
-" 600px")
+**Complete the columns as follows:**
 
 -  **GUID**:
 
@@ -85,5 +80,4 @@ Comments about the spatial description determination, explaining
 assumptions made in addition or opposition to the those formalized in
 the method referred to in Georeference Protocol.
 
-.. _import: import
 .. _here: http://www.iso.org/iso/english_country_names_and_code_elements

@@ -1,16 +1,10 @@
 Revisions
 =========
 
-Introduction
-------------
-
-Scratchpads can keep track of the changes made to a node of a content
+*Scratchpads can keep track of the changes made to a node of a content
 type. These changes are stored as different versions of the node called
 revisions. Revisions can be very useful when data are updated by
-different authors.
-
-Instructions
-------------
+different authors.*
 
 Enabling Revisions for content types
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19,16 +13,16 @@ Enabling Revisions for content types
 2. Click *Edit* next to the content type you wish to enable or disable
    revisions for
 3. Click on *Publishing options* and select *Create new revision*
-4. Click *Save Content type* or continue to the next section: Enabling
-   comparing of Revisions
+4. Click *Save Content type* 
 
-Enabling comparing of Revisions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If *Create new revision* is specified for a content type, every edit will, by default, create a new version of the page. 
 
-1. Click on *Compare Revisions*
-2. Click to enable *Show View changes button on node edit form* and
-   *Enable the Revisions page for this content type*
-3. Click *Save Content type*
+This can be overiden in the *Revision information* on a node - along with setting a more informative revision log message.
+
+.. figure:: /_static/NodeRevision.png
+
+   Node form Revision information
+
 
 Comparing Revisions
 ~~~~~~~~~~~~~~~~~~~
@@ -36,14 +30,13 @@ Comparing Revisions
 Once you have created a new revision of a node in the content type you
 can compare their differences:
 
-1. Locate and edit the node you wish to compare existing revisions for
+1. Locate and view the node you wish to see the revisions for.
 
-2. Click on the title of the node you wish to see the revisions
+2. Click on *Revisions* tab
 
-3. Click on *Revisions*
+3. Select the revisions you wish to compare and click *Compare*
 
-4. Select the revisions you wish to compare and click *Compare*
+   .. figure:: /_static/Revisions_compare.png
 
-5. To remove the HTML tags click on *Marked down*
 
-.. figure:: /_static/Revisions_compare.png
+Note: If a field accepts HTML input, it might be easiet to view changed without HTML tags - to remove the HTML tags click on *Marked down*

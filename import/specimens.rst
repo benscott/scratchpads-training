@@ -7,7 +7,7 @@ Instructions
 ~~~~~~~~~~~~
 
 Excel file imports can be used either for creating new nodes or for
-updating existing. Check the :doc:`/import/content` page for more general info.
+updating existing. Please see the :doc:`/import/content` page for more general info.
 
 To download the template file (for new data or for updating your data)
 

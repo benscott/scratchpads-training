@@ -5,7 +5,7 @@ Instructions
 ------------
 
 Excel file imports can be used either for creating new Users or for
-updating existing ones. Check the :doc:`/import/content` page for more general info.
+updating existing ones. Please see the :doc:`/import/content` page for more general info.
 
 To download the template file (for new data or for updating your data)
 
@@ -17,10 +17,7 @@ To download the template file (for new data or for updating your data)
 
 **Complete the columns as follows:**
 
--  **Title**:
-
-The title of the individual, either Mr, Mrs, Ms, Miss, Dr, Prof., or
-leave blank for no title.
+-  **Title**: The title of the individual, either Mr, Mrs, Ms, Miss, Dr, Prof., or leave blank for no title.
 
 -  **Other/given name(s)**:
    

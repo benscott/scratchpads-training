@@ -1,20 +1,26 @@
 Edit content
 ============
 
-
-Introduction
-------------
-
-Content can either be edited by going to the respective `node`_ and
-clicking on the *Edit* tab or by using the `grid editor`_ to update
+Content can either be edited by going to the respective node and
+clicking on the `Edit node`_ tab or by using the `Grid editor`_ to update
 several nodes at once.
 
-Instructions
-------------
+Edit node
+---------
+
+1. When viewing any editable :term:`Node`, an *Edit* tab will be available.
+
+    .. figure:: /_static/NodeEditTab.png
+
+2. Click the *Edit* tab to open the edit overlay form.
+
+
+Grid editor
+-----------
 
 1. Click *Content* in the :term:`Admin menu`
 
-2. Click *Grid* next to the `content type`_ you wish to edit
+2. Click *Grid* next to the :term:`content type` you wish to edit
 
 3. You will see a matrix with a row for each node and columns for
    selected fields of this content type. The rows are ordered
@@ -45,5 +51,5 @@ Instructions
    search box that appears for each column. You can sort the rows by
    clicking on the column header of the field you want to sort by.
 
-8. At the bottom of the matrix there are icons for cloning (create a
-   duplicate entry), deleting and undoing
+8. At the bottom of the matrix there are icons for cloning (creating a
+   duplicate entry), deleting and undoing.

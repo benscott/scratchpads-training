@@ -1,27 +1,21 @@
 Finding content
 ===============
 
-Introduction
-------------
-
-There are several ways to find specific content on a Scratchpad: Search,
-faceted search, `Main menu`_ and `Admin menu`_.
-
-.. figure:: /_static/SearchBox.jpg
-
-Instructions
-------------
+There are several ways to find specific content on a Scratchpad: Search_, `Faceted search`_, :term:`Main menu` and :term:`Admin menu`.
 
 Search
 ~~~~~~
 
-The Search box in the header has different search options: *All* and
-*Taxonomy*. *All* finds all content that includes the search term.
+The Search box in the header has different search options: *All* and *Taxonomy*. 
+
+*All* finds all content that includes the search term.
+
 *Taxonomy* only searches for terms in one of the vocabularies and
-returns the matched terms. When you are viewing a page (“Page” content
-type) you will get an additional option to search only page content.
-Clicking on the *Search* button when the search field is empty will lead
-to a faceted search page.
+returns the matched terms. 
+
+The search functionality is aware of the content type you're viewing: When you are viewing a page (“Page” content type) you will get an additional option to search only page content.
+
+Clicking on the *Search* button when the search field is empty will lead to a faceted search page.
 
 .. figure:: /_static/SearchResults.jpg
 
@@ -46,18 +40,18 @@ a content type (e.g. References) To use the faceted search:
    selected term
 -  You can filter the content based on multiple fields
 
-Find content via the Main menu
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Main menu
+~~~~~~~~~
 
-Click on one of the content types in the `Main menu`_ to find the
-respective data. Several content types, like literature and media
-gallery offer :term:`faceted browsing` for smarter and more powerful
-searching.
+Click on one of the content types in the :term:`Main menu` to find the
+respective data. 
 
-Find content via the Admin menu
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Several content types, like literature and media gallery offer :term:`faceted browsing` for smarter and more powerful searching.
 
-As maintainer of a site you can also find content via the `Admin menu`_.
+Admin menu
+~~~~~~~~~~
+
+As maintainer of a site you can also find content via the :term:`Admin menu`.
 
 -  Click on *Content* in the Admin menu and then on *View* next to the
    content type that included the data you need to find.
@@ -67,7 +61,8 @@ that you can find content that is not published which is otherwise
 difficult. Additionally, you can search by username or do operations
 like deleting or (un)publishing several nodes at once.
 
-Find recent content via the dashboard
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can :doc:`customise dashboard` to show recent content.
+Recent content
+~~~~~~~~~~~~~~
+
+You can also view all recent content - see :doc:`/content/recent-content`.

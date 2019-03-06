@@ -1,14 +1,8 @@
 Taxon descriptions
 ==================
 
-Introduction
-------------
+The :term:`Taxon description` content type is based on TDWG’s :term:`SPM` (Species Profile Model) standard.
 
-The `Taxon description`_ content type is based on TDWG’s `SPM`_ (Species
-Profile Model) standard.
-
-Instructions
-------------
 
 Adding a taxon description with distribution map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19,9 +13,7 @@ Adding a taxon description with distribution map
 
 .. figure:: /_static/AddDescription.jpg
 
-
-
-3. Add the taxon name into the *Taxonomic Name* field
+3. Add the taxon name into the *Taxonomic Name* field (this will autocomplete once you start typing)
 
 4. Fill the fields as needed. Use the *Morphology* field for the actual
    morphological description of the taxon and *Diagnostic Description*
@@ -37,7 +29,7 @@ Adding a taxon description with distribution map
 
    .. figure:: /_static/AddDescriptionPolygon.jpg
 
-7. Click on the *+ Region* tab to select `TDWG regions`_. Select the
+7. Click on the *+ Region* tab to select :term:`TDWG regions`. Select the
    level of the region either by zooming in or out of the map or by
    clicking on the *Selecting by … (Level …)* field. Then click on the
    map to select the respective region of this level.

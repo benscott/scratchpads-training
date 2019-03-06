@@ -1,11 +1,7 @@
-Taxon descriptions
-==================
+Import taxon descriptions
+=========================
 
-Instructions
-------------
-
-Excel file imports can be used either for creating new nodes or for
-updating existing. Check the :doc:`/import/content` page for more general info.
+Excel file imports can be used either for creating new nodes or for updating existing. Please see the :doc:`/import/content` page for more general info.
 
 To download the template file (for new data or for updating your data)
 
@@ -67,19 +63,22 @@ string *POLYGON:POLYGON((27.42 44.65,17.66 39.36,20.30 36.80,24.25
    1. Use the *REGION:* prefix followed by the number of geographical
       unit according to `TDWG controlled vocabulary on geographic
       regions`_
+
    2. To select a Level 1 region use the *REGION:* prefix followed by
       the number of continent (e.g. REGION:2)
+
    3. To select a Level 2 region use the *REGION:* prefix followed by
       the number of continent and number of sub-continent
       (e.g. REGION:1:13)
+
    4. To select a Level 3 region use the *REGION:* prefix followed by
       the three letter alphabetical code of the country or state
       (e.g. for Spain REGION:SPA)
+
    5. To select a Level 4 region use the *REGION:* prefix followed by
       the hyphenated
-    6. To set multiple regions of distribution for a taxon you must separate
-    each *REGION:…* with a line break in the cell. To enter line breaks
-    use Alt+Enter.
+
+   6. To set multiple regions of distribution for a taxon you must separate each *REGION:…* with a line break in the cell. To enter line breaks use Alt+Enter.
 
 -  **Associations**:
 

@@ -1,85 +1,80 @@
 Newsletter
 ==========
 
-Newsletter
+*Newsletter can be created using the Simplenews module. They are sent to subscribed email addresses, and provide a nice way to contact users of your Scratchpad*
 
-**Aim**: Create a newsletter.
+Enabling the Simplenews module
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**You need**:
+1. From the :term:`Admin menu` bar go to *Structure > Tools*
+2. Find the *Mail* section and enable *Simplenews*
+3. Click *Save*
 
--  Several users
 
-**Time**: 10 min ## Instructions Newsletter can be created using the
-Simplenews module. They are sent to subscribed email addresses.
+Configuring Simplenews
+~~~~~~~~~~~~~~~~~~~~~~
 
-Set up Simplenews
-^^^^^^^^^^^^^^^^^
+*Once installed, we need to setup Simplenews.* 
 
--  To enable the the newsletter module go to in the :term:`Admin menu` and
-   click on . In the ‘Mail’ section enable Simplenews and
-   save.
+1. Still on the Tools page in the *Mail* section a link *Configure Simplenews* has appeared. Click this link.
 
-    .. figure:: /_static/AdminSimplenews.jpg
+   Alternatively, from the :term:`Admin menu` bar go to *Configuration >  Newsletters*
 
-    Simplenews administration page
-    
+2. Newsletters are organised into categories, each category with their own settings. 
 
--  Still on the Tools page in the ‘Mail’ section a link to appears.
-   Click on this link. Alternatively go to in the Admin menu and click
-   on .
--  Click on to change the settings. Have a look a the settings and
-   change if necessary. By default a test letter is send to the test
-   address, so that you can change your newsletter if necessary before
-   sending it out to the audience.
 
 Create a newsletter
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
--  Click on in the :term:`Admin menu` and click on . Click on .
+1. From the :term:`Admin menu` bar go to *Content*
 
-    .. figure:: /_static/AddNewsletter.jpg
+2. Under *Simplenews newsletter* select *Add*
 
-    Create a newsletter administration page
+3. Enter a NAME and DESCRIPTION.
 
+4. Select the newsletter category. 
 
--  Enter a NAME and DESCRIPTION and choose the subscription settings you
-   prefer. Save.
+5. Ensure *Published* is selected under "Publishing options"
+
+6. Save
+
 
 Create a newsletter issue
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Click on in the :term:`Admin menu` and then click on for ‘Simplenews
-   newsletter’.
--  Add a TITLE and write your news in the BODY field.
--  Under NEWSLETTER CATEGORY select the newsletter you just created.
-   Save.
--  The issue is now published and has been sent to the test address but
-   hasn’t been sent to the subscribed emails. 
-   
+The newsletter has been created and is ready to be sent. 
+
+1. Click the *Newsletter* tab, on the node. 
+
    .. figure:: /_static/SendNewsletter.jpg
 
    Send newsletter settings
 
+2. If you'd like to send a test newsletter, select "Send one test newsletter to the test address" and click *Submit* button.
 
--  To send the newsletter to the subscribed emails, click on the tab of
-   the issue, select ‘Send newsletter’ and click on the button.
--  A new menu item for “Simplenews newsletter” has been added to the
-   Main menu. Click on this link for a list of newsletter issues. Click
-   on the title to view an issue.
+3. To send the newsletter to the subscribed emails, select ‘Send newsletter’ and click *Submit* button.
 
-Subscribe users
-^^^^^^^^^^^^^^^
 
-Depending on your Simplenews settings, users can either subscribe to
-newsletters when they register or edit their user account or they can
-not subscribe on their own and you have to subscribe them.
+User subscriptions
+~~~~~~~~~~~~~~~~~~
 
--  Click on in the :term:`Admin menu` and click on the tab in the upper right
-   corner. At the bottom you see a list of users. Only those users that
-   are allowed to login will appear in the list.
--  To subscribe single users click on the link for the respective user,
-   select the newsletter and click the button.
--  To subscribe several users click on the blue link at the top, enter
-   the email addresses of the users (these have to be the email
-   addresses of users that are allowed to login), select the newsletter
-   and click the button.
+Depending on your Simplenews settings, users can either:
+
+1) Subscribe to newsletters when they register
+2) Edit their user account
+3) Not subscribe on their own and you have to subscribe them.
+
+To view and edit user subscriptions: 
+
+1. From the :term:`Admin menu` bar go to *People*. 
+
+2. Click *Newsletter subscriptions* to see a list of users and their subscription status to the different categories of newsletters.
+
+3. You can Activate/Inactivate/Delete users.
+
+
+To subscribe/unsubscribe several users at once click *Mass subscribe* or *Mass unsubscribe* blue links at the top, enter the email addresses of the users (these have to be the email addresses of users that are allowed to login)
+
+   .. figure:: /_static/SendNewsletter.jpg
+
+To subscribe a single user, click *Manage subscriptions* link available on a user profile page. 

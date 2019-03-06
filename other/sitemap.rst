@@ -6,7 +6,7 @@ The XML sitemap module creates a sitemap that conforms to the http://sitemaps.or
 Instructions
 ------------
 
-1. Click *Structure* in the `Admin menu`_ and then on *Tools*
+1. Click *Structure* in the :term:`Admin menu` and then on *Tools*
 2. In the *Other* section turn the Sitemap on and save
 3. No menu link will be created for the sitemap but it can be found at
    http://[your site]/sitemap

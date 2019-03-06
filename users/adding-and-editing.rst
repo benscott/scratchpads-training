@@ -16,9 +16,12 @@ There are four user `roles`_:
 
 -  **Authenticated** (unblocked) user: Able to access non-public
    content, create and edit own forum posts
+
 -  **Contributor**: Able to create content and edit own content
+
 -  **Editor**: Able to create and edit own content, and also edit other
    people’s content
+   
 -  **Maintainer**: Like editor, but also has administration privileges
 
 Instructions

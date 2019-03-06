@@ -1,26 +1,21 @@
 Custom content
 ==============
 
-Introduction
-------------
-
-Creating a custom content type allows you to create content in which the
-data are entered and saved in specific fields. If you already have data
-available, which are stored in a table or a database, you can create a
-custom content type with exactly the same fields and import the data
-into the Scratchpad.
-
-Instructions
-------------
+*So far we have only worked with predefined content types, but Scratchpads also let you defined custom content types. This allows you to create content in which the data are entered and saved in specific fields.*
 
 Adding content type
 ~~~~~~~~~~~~~~~~~~~
+
+.. only:: training
+
+   We are going to create a new content type called "Literature mining", which can be tagged with a taxonomic name and displayed on the classification species pages. 
+
 
 1. From the :term:`Admin menu` go to *Structure > Content types*
 
     .. figure:: /_static/AdminContentTypes.jpg
 
-2. Click *+ content type* link at the top
+2. Click *+ Add content type* link at the top
 
 3. Enter a *NAME* (“Literature mining”) and *DESCRIPTION*
 
@@ -53,11 +48,12 @@ Term reference fields
 
 First we want to add a field that links to the biological
 classification, so that we can tag our new literature mining content to
-one or more taxonomic names. Like with other content types, the
-Taxonomic name field should be an autocomplete field. A field like this
-is already present in several content types, so we don’t need to create
-a new one, we can use the existing one. Because it links to the taxonomy
-module a field like this is called a *Term reference*.
+one or more taxonomic names.
+
+Like with other content types, the *Taxonomic name* field should be an autocomplete field. 
+A field like this is already present in several content types, so we don’t need to create
+a new one, we can use the existing one. Because it links to taxonomy
+terms a field like this is called a *Term reference*.
 
     .. figure:: /_static/ManageFields.jpg
 
@@ -181,8 +177,6 @@ tab group to which we then add horizontal tab items.
 
 3.  Click *Save*
 
-    .. figure:: /_static/AddLiteratureMining.jpg
-
 4.  Go to *Add new group*. As *Label* enter “Reference data” and as
     *Group name* enter “reference_data”
 
@@ -207,10 +201,18 @@ tab group to which we then add horizontal tab items.
 
 12. Click *Save*
 
--  Check out how your new content type looks by adding a literature
-   mining node. If you do this in a separate browser tab you can play
-   around with changing the settings and seeing how this affects the
-   view.
+
+Create a new node
+~~~~~~~~~~~~~~~~~
+
+Check out how your new content type looks by adding a literature mining node. 
+
+From the :term:`Admin menu` go to *Content > Literature mining > Add*
+
+    .. figure:: /_static/AddLiteratureMining.jpg
+
+If you do this in a separate browser tab you can play around with changing the settings and seeing how this affects the view.
+
 
 Managing display
 ~~~~~~~~~~~~~~~~
@@ -230,4 +232,5 @@ field type
     .. figure:: /_static/LiteratureMining2.jpg
     .. figure:: /_static/LiteratureMining3.jpg
 
--   At the point where a new content type has been saved a menu item is added to the [Main menu](glossary-glossary-mainmenu). By default this page just lists the titles of literature mining nodes with a link to the respective node. To improve this page and change it for example into a matrix, you need to edit the view.
+
+At the point where a new content type has been saved a menu item is added to the :term:`Main menu`. By default this page just lists the titles of literature mining nodes with a link to the respective node. To improve this page and change it into, for example, a matrix, you need to edit the view. See :doc:/views/ for more info

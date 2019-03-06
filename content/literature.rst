@@ -36,22 +36,8 @@ Edit a reference
 2. You can now edit this individual entry, changing any of the fields
    that you consider to need changing.
 
-3. Tag this biblio node to the classification by adding the respective
-   term in the TAXONOMIC NAME field (`Autotagging`_ doesn’t work for
-   bibio nodes). Only references that are linked to the classification
-   will show up on your taxon pages. If you are using our training
-   material, link the record you are editing to “Pediculus humanus”.
+3. Tag this biblio node to the classification by adding the respective term in the TAXONOMIC NAME field. 
+   
+   Only references that are linked to the classification will show up on your taxon pages.
 
 4. Press the *Save* button.
-
-Restricting access to attachments
----------------------------------
-
-You can restrict access to attachments for references to certain user
-roles in your site. To do so:
-
-1. From the Admin menu go to *People*
-2. Click on *permissions*
-3. Deselect the roles you wish to deny access to attachments in
-   references
-4. Click *Save permissions*

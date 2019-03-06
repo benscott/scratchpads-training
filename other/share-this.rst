@@ -16,7 +16,7 @@ Instructions
 
 To activate the Share this functionality:
 
-1. From the `Admin menu`_ go to *Structure > Tools*
+1. From the :term:`Admin menu` go to *Structure > Tools*
 2. Locate the *Sharing* section in the page
 3. Turn the *ShareThis* module on
 4. Click Save

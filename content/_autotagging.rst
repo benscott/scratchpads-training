@@ -5,7 +5,11 @@ Once you have added terms to a biological classification, new content
 will be automatically tagged to the classification by default. This is
 called autotagging. The system will look for the presence of terms in
 the text and if it finds a term it will add a link to this term to the
-`node`_. Autotagging can be problematic because if names of other taxa
+`node`_. 
+
+
+
+Autotagging can be problematic because if names of other taxa
 are mentioned in the text, for example while comparing characters, then
 these will be tagged, too. For some content types like taxon
 descriptions or images, this can be undesirable. The other problem is
@@ -14,8 +18,8 @@ well as the species name because both are part of the name. But for
 example a species description should only be linked to the respective
 species.
 
-Disable autotagging for a certain content type
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Disable autotagging for a content type
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/AdminStructure.jpg
    :alt: Structure administration page

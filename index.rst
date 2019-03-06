@@ -33,26 +33,42 @@ Contents
    classification/integrating-external-data
    classification/filtering-names
 
-
 .. toctree::
    :maxdepth: 1
    :caption: Creating & editing content
 
+   content/locations-and-specimens
+   content/media-gallery
+   content/images-and-media
+   content/taxon-descriptions
    content/literature
    content/blog
    content/forums
-   content/groups
+   content/newsletter
    content/finding-content
+   content/recent-content
+   content/custom-content
+   content/phylogenetic-tree
+   content/editing-content
+   content/revisions
 
 .. toctree::
    :maxdepth: 1
    :caption: Import data
 
+   import/content
    import/specimens
    import/literature
    import/taxon-description
+   import/locations
    import/users
-   import/worms-classification
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Users & permissions
+
+   users/adding-and-editing
+   users/biographies
 
 .. toctree::
    :maxdepth: 1
@@ -60,12 +76,6 @@ Contents
 
    export/geocat
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Users
-
-   users/adding-and-editing
-   users/biographies
 
 .. toctree::
    :hidden:
@@ -73,6 +83,18 @@ Contents
    :caption: Glossary
 
    meta/glossary
+
+
+.. These files aren't included as they aren't working, but might at some point in the future
+
+.. toctree::
+   :hidden:
+
+   classification/external-data-sources/_bhl
+   content/_autotagging
+   import/_worms-classification.rst
+   import/_kml
+
 
 
 Useful links
