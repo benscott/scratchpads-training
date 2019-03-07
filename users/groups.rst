@@ -1,31 +1,27 @@
 Groups
 ======
 
-Introduction
-------------
-
-Let’s assume you want to prepare data for a publication online, but you
+*Let’s assume you want to prepare data for a publication online, but you
 don’t want anybody to see these data, yet, except for yourself and maybe
-some co-authors. The best way to do this is by using a “Group”.
+some co-authors. The best way to do this is by using a “Group”.*
 
-Groups are private areas on a Scratchpad which are only accessible to
+*Groups are private areas on a Scratchpad which are only accessible to
 group members. A user can have a higher user role within a group. For
 example someone who is contributor to the main Scratchpad can be
 administrator for a group and edit group content created by other group
-members. Content generated within a group can be publicly visible or
+members.*
+
+*Content generated within a group can be publicly visible or
 hidden. The creator of a group is usually responsible for managing the
 group and its users, but he/she can give other users administrative
-rights.
-
-Instructions
-------------
+rights.*
 
 Enabling the Group module
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before you can add a group you need to enable the Group module.
 
-1. From the Admin menu bar got to *Structure > Tools*
+1. From the :term:`Admin menu` go to *Structure > Tools*
 2. In the *Groups* section turn the Group module *On*
 3. Click *Save*
 4. If a message appears that you need to rebuild the content access
@@ -39,25 +35,31 @@ Before you can add a group you need to enable the Group module.
 Adding a new group
 ~~~~~~~~~~~~~~~~~~
 
-1. From the Admin menu bar click *Content* and then *Add* link for Group
-
-
+1. From the :term:`Admin menu` click *Content* and then *Add* link for Group
 
 2. Enter a *GROUP NAME*
+
 3. In the *BODY* field you can enter a short description of the group
    that will be visible to users on general group pages
-4. Click *Save*
 
--  After saving you will see the main groups page which will show
-   content linked to this group. It takes up to an hour for the Group
-   name to actually show on this page and you will need to refresh the
-   page to actually see it. However, you can already link content to the
-   group or add members.
+4. Select *Group visibility* - Public or private
+
+5. Click *Save*
+
+After saving you will see the main groups page which will show
+content linked to this group. It takes up to an hour for the Group
+name to actually show on this page and you will need to refresh the
+page to actually see it. However, you can already link content to the
+group or add members.
 
 Add group members
 ~~~~~~~~~~~~~~~~~
 
-1. From the main groups page click on the *Members > Add people*.
+1. *Edit* the group
+
+2. Select the *Members* tab.
+
+3. Click the *Add people* link.
 
     .. figure:: /_static/AddGroupMember.jpg
 
@@ -65,10 +67,10 @@ Add group members
 
     .. figure:: /_static/GroupPeople.jpg
 
--  A user’s role is the same within a group as it is on the rest of the
-   Scratchpad and the only option is to give a member the “administrator
-   member” role, which can be done on the page. Administrator members
-   can edit the group and manage the subscriptions.
+A user’s role is the same within a group as it is on the rest of the
+Scratchpad and the only option is to give a member the “administrator
+member” role, which can be done on the page. Administrator members
+can edit the group and manage the subscriptions.
 
 Adding content to the group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,10 +91,11 @@ Add a new page
 
 3. Click *Save*
 
--  You are now viewing your private group page. Note that the menu item
-   linking to this page is visible and the page also pops up in the
-   *Recent pages* block on the front page.
--  When logged out the menu item disappears and the page is not cited in
-   the *Recent pages* block on the front page any more. The page itself
-   gives an “Access denied” message (after renewing the browser window
-   with Control+F5).
+You are now viewing your private group page. Note that the menu item
+linking to this page is visible and the page also pops up in the
+*Recent pages* block on the front page.
+
+When logged out the menu item disappears and the page is not cited in
+the *Recent pages* block on the front page any more. The page itself
+gives an “Access denied” message (after refreshing the browser window
+with Control+F5).

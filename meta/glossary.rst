@@ -60,6 +60,9 @@ Glossary
     Countries map
         The countries map content type can be used to produce shaded presence/absence maps for taxa. The map regions are based on the TDWG distribution standards.
 
+    Cron
+        An automated command that is to be executed at a specified time.
+
     CSV
         Comma-separated values, a file where tabular data are separated with commas.
 

@@ -1,18 +1,13 @@
 Adding & editing users
 ======================
 
-Introduction
-------------
-
 You can control user access under *People* in the :term:`Admin menu`. The
 *People* page allows you to list all users of your site and perform
 actions (upgrade, delete, edit) on them.
 
-When a new user creates an account, the site maintainer will receive an
-email and will have to unblock them and add a user role before they can
-use the site.
+There are five user :term:`roles`:
 
-There are four user `roles`_:
+-  **Anonymous** A non-logged in user.
 
 -  **Authenticated** (unblocked) user: Able to access non-public
    content, create and edit own forum posts
@@ -21,11 +16,8 @@ There are four user `roles`_:
 
 -  **Editor**: Able to create and edit own content, and also edit other
    people’s content
-   
--  **Maintainer**: Like editor, but also has administration privileges
 
-Instructions
-------------
+-  **Maintainer**: Like editor, but also has administration privileges
 
 Adding a new user
 ~~~~~~~~~~~~~~~~~
@@ -45,6 +37,10 @@ Adding a new user
 
 Authorising new user accounts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+All users of your Scratchpad have to be authorised by a site maintainer. When a new user creates an account the site maintainer will receive an
+email and will have to unblock them and add a user role before they can
+use the site.
 
 1. Go to *People* in the :term:`Admin menu`
 2. Check the status and role of the user(s) you want to edit. Newly

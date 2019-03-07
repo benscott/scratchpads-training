@@ -1,3 +1,8 @@
+:orphan:
+
+.. Autotagging not working. See https://github.com/NaturalHistoryMuseum/scratchpads2/issues/5874
+
+
 Autotagging
 ===========
 
@@ -5,7 +10,7 @@ Once you have added terms to a biological classification, new content
 will be automatically tagged to the classification by default. This is
 called autotagging. The system will look for the presence of terms in
 the text and if it finds a term it will add a link to this term to the
-`node`_. 
+:term:`node`. 
 
 
 

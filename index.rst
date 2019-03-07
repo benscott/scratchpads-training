@@ -65,17 +65,21 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Users & permissions
+   :caption: Export data
 
-   users/adding-and-editing
-   users/biographies
+   export/exporting-data
+   export/create-backup
+   export/word-dictionary
+   export/geocat
 
 .. toctree::
    :maxdepth: 1
-   :caption: Export data
+   :caption: Users & permissions
 
-   export/geocat
-
+   users/adding-and-editing
+   users/permissions
+   users/biographies
+   users/groups
 
 .. toctree::
    :hidden:
@@ -83,18 +87,6 @@ Contents
    :caption: Glossary
 
    meta/glossary
-
-
-.. These files aren't included as they aren't working, but might at some point in the future
-
-.. toctree::
-   :hidden:
-
-   classification/external-data-sources/_bhl
-   content/_autotagging
-   import/_worms-classification.rst
-   import/_kml
-
 
 
 Useful links

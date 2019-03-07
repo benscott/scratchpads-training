@@ -1,3 +1,7 @@
+:orphan:
+
+.. Do we need KML import anymore?  Seems flaky!
+
 Import KML files
 ================
 

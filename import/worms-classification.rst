@@ -1,3 +1,8 @@
+:orphan:
+
+.. Worms not needed for Uruguay, need to get working: See https://github.com/NaturalHistoryMuseum/scratchpads2/issues/5719
+
+
 Importing a worms classification
 ================================
 
