@@ -4,9 +4,9 @@ Customize dashboard
 Instructions
 ------------
 
-1. Click on `Dashboard`_ in the :term:`Admin menu`. By default the Dashboard
-   shows the *Recent content* block. You can add more blocks by clicking
-   on the *Customize dashboard* link at the top.
+1. In the :term:`Admin menu` go to :term:`Dashboard`.
+
+2. By default the Dashboard shows the *Recent content* block. You can add more blocks by clicking on the *Customize dashboard* link at the top.
 
    .. figure:: /_static/Dashboard4.jpg
 

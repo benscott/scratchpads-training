@@ -1,24 +1,22 @@
+:orphan:
+
+.. Twitter integration is broken - see https://github.com/NaturalHistoryMuseum/scratchpads2/issues/5877
+
 Twitter feeds
 =============
 
-Introduction
-------------
-
-You can easily embed twitter feeds in your Scratchpad pages. In order
+*You can easily embed twitter feeds in your Scratchpad pages. In order
 for the twitter module to work you will have first to connect your
-twitter account with the module.
+twitter account with the module.*
 
-Instructions
-------------
 
 Link your account
 ~~~~~~~~~~~~~~~~~
 
-1. From the Admin menu go to *Configuration*
+1. From the :term:`Admin menu` go to *Configuration*
 2. Under *Web services* select *Twitter*
 3. Click *Go to Twitter and add an authenticated account*
-4. Follow instructions from the twitter service and click *Authorize
-   app*
+4. Follow instructions from the twitter service and click *Authorize app*
 
 Embed a hashtag search
 ~~~~~~~~~~~~~~~~~~~~~~

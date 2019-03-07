@@ -234,3 +234,13 @@ field type
 
 
 At the point where a new content type has been saved a menu item is added to the :term:`Main menu`. By default this page just lists the titles of literature mining nodes with a link to the respective node. To improve this page and change it into, for example, a matrix, you need to edit the view. See :doc:/views/ for more info
+
+
+Menu
+~~~~
+
+By default, new content types are added to the :term:`Main menu`, with a view listing all the nodes. You can customise this view - see :doc:`/views-and-blocks/views` for more information. 
+
+TIP: Scratchpads uses caching to speed up the sites, which does mean some menu items take a while to display.  If you *Literature mining* menu item is not visible, go back into :term:`Main menu` > *Structure > Content types > Literature mining > Edit* and click *Save* again without making any changes. 
+
+

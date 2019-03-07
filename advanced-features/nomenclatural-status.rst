@@ -1,14 +1,10 @@
-Designating nomenclatural status
-================================
+Nomenclatural status
+====================
 
-Introduction
-------------
+Scratchpads follow the ITIS scheme (see :doc:`/classification/itis-standard-fields`). When setting a term of a
+biological taxonomy as not accepted you are also expected to provide the unacceptability reason for it.
 
-Scratchpads is following the ITIS scheme. When setting a term of a
-biological taxonomy as not accepted you are also expected to provide the
-unacceptability reason for it.
-
-To facilitate the different nomenclature common practices followed in by
+To accomodate the different nomenclature common practices followed by
 both IBN and ICZN, we provide adjusted lists of unacceptability reasons.
 
 .. figure:: /_static/Unacceptability_reasons.png

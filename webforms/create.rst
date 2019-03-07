@@ -1,52 +1,51 @@
-Webform
-=======
+Create webform
+==============
+
+*Webform is the module for making forms and surveys in Drupal. After a submission customizable e-mails can be sent to administrators and/or submitters. Results can be exported into Excel or other spreadsheet applications.*
+
+In this example, we will create a webform for a conference registration. 
+People can fill in the form without having to register or log in to the
+Scratchpad site. 
 
 .. figure:: /_static/Webform2.jpg
 
-**Aim**: Create a webform for a conference registration.
-
-**You need**: -
-
-**Time**: 20 min ## Instructions Webforms contain a set of fields that
-people can fill in without having to register or log in to the
-Scratchpad site. Webforms can be used for example for the registration
-for conferences and courses (see
-http://scratchpads.eu/scratchpad-training-courses), or for
-questionnaires (see
-http://scratchpads.eu//feedback-form-training-courses). The owner of the
-webform can be notified about each registration by email, check the
-registrations in table format or download the data. To create a webform,
-the webform module has to be activated first.
-
 Enable the webform module
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Click in the :term:`Admin menu` and then on .
--  In the ‘Webform’ section (in bottom right corner) turn Webforms on
-   and save. 
+1. In the :term:`Admin menu` go to *Structure > Tools*
 
-   
+2. In the ‘Webform’ section turn Webforms on and save. 
+
+
+Create a webform
+~~~~~~~~~~~~~~~~
+
+1. In the :term:`Admin menu` go to *Content*
+
+2. Next to *Webform*, click *Add*
 
    .. figure:: /_static/AddWebform.jpg
 
    Create a webform
 
-Create a webform
-^^^^^^^^^^^^^^^^
+3. Enter a TITLE and some BODY text. The body text will appear at the top of the form and can be used for an introduction. 
 
--  Click to in the :term:`Admin menu` and then on the link for webform. Enter
-   a TITLE and some BODY text. The body text will appear at the top of
-   the form and can be used for an introduction. Save. Now you can enter
-   components to your form.
+4. *Save*. Now we can enter fields to your form.
 
 
+Add webform components
+~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: /_static/AddWebformComponent.jpg
+*Components* is the webform terminology for fields. To start adding components start editing a webform, and select the *Webform* tab.
 
-Add a webform component
+This opens the webform components interface:
 
-Text fields
-'''''''''''
+.. figure:: /_static/WebformComponents.png
+
+Select the type of field you want (`Text field`_, `Date field`_, `Number field`_, `Select option field`_, `File field`_, `Grid field`_, `Text area field`_, `Private field`_) and click *Add*
+
+Text field
+''''''''''
 
 Components of the type “Textfield” are for entering short text that is
 up to 255 characters long. Add a component for entering the full name.
@@ -79,28 +78,28 @@ up to 255 characters long. Add a component for entering the full name.
 -  Click on the tab to check how your webform looks so far. Then click
    on the tab to add more components.
 
-Email fields
+Email field
 ''''''''''''
 
 -  Add “Email” as the new component name and select the “E-mail” type.
    Check “Mandatory”. Click the button. Save.
 
-Date fields
-'''''''''''
+Date field
+''''''''''
 
 -  Add “Arrival date” as the new component name and select the “Date”
    type. Enter “2000-05-29” as ‘START DATE’. Enable the pop-up calender
    and choose “inline” for the label display. Save.
 
-Number fields
-'''''''''''''
+Number field
+''''''''''''
 
 -  Add “Number of accompanying persons” as the new component name and
    select the “Number” type. Add. Check “Integer” in the ‘Validation’
    section. Choose “inline” for the label display. Save.
 
-Select option fields
-''''''''''''''''''''
+Select option field
+'''''''''''''''''''
 
 -  Add “Are you giving a talk?” as the new component name and select the
    “Select options” type. Check “Mandatory”. Add. Enter “1|No” and
@@ -113,8 +112,8 @@ Select option fields
    you evaluate the results. The safe key is always on the left side and
    separated from the readable option by a pipe character. Save.
 
-File fields
-'''''''''''
+File field
+''''''''''
 
 -  Add “Abstract” as the new component name and select the “File” type.
    Click the button. Add some instructions on what the abstract should
@@ -124,8 +123,8 @@ File fields
    EXTENTIONS’ unselect the web images extensions and choose several
    documents extensions instead. Save.
 
-Grid fields
-'''''''''''
+Grid field
+''''''''''
 
 Grid fields allow the user to select different choices for a set of
 questions. Grids are often used in questionnaires to for example state
@@ -153,16 +152,16 @@ important the attendance at specific symposia is for them.
     Webform administration page with various form components
 
 
-Text area fields
-''''''''''''''''
+Text area field
+'''''''''''''''
 
 Text area fields are for longer text.
 
 -  Add “Remarks” as the new component name and select the “Textarea”
    type. Click the button.
 
-Private fields
-''''''''''''''
+Private field
+'''''''''''''
 
 If you want to annotate the forms that users have submitted without
 having the annotation field showing up in the webform, check “Private”
@@ -170,7 +169,10 @@ at the bottom of the component settings page.
 
 -  Add “Private annotations” as the new component name and select the
    “Textfield” type. Click the button. Check “Private”. Save.
+
 -  Click on the tab to have a look at your webform. For long forms you
    can add page breaks if needed. Log out of your Scratchpad and go to
    the webform page. You will notice that the “Private annotations”
    field is now hidden.
+
+The webform is ready to to be used so lets setup a way to monitor responses and analyse the results - see :doc:`/webforms/administer`.

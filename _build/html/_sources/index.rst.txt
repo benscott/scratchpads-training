@@ -51,6 +51,7 @@ Contents
    content/phylogenetic-tree
    content/editing-content
    content/revisions
+   content/ordering
 
 .. toctree::
    :maxdepth: 1
@@ -80,6 +81,50 @@ Contents
    users/permissions
    users/biographies
    users/groups
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Blocks and views
+
+   views-and-blocks/views
+   views-and-blocks/views-block
+   views-and-blocks/enabling-blocks
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Webforms
+
+   webforms/create
+   webforms/administer
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Social
+
+   social/comments
+   social/google-analytics
+   social/share-this
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Advanced features & customisation
+
+   advanced-features/citing-scratchpads
+   advanced-features/customise-dashboard
+   advanced-features/customise-menus
+   advanced-features/customise-shortcut-menu
+   advanced-features/custom-content-taxon-pages
+   advanced-features/formatting-thumbnails
+   advanced-features/nomenclatural-status
+   advanced-features/pretty-urls
+   advanced-features/sitemap
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Support
+
+   support/help-and-support
 
 .. toctree::
    :hidden:
