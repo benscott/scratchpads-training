@@ -14,7 +14,11 @@ Images & media
 
 
 4.  After selecting your file(s) click *Start upload* and wait for the
-    files to upload
+    files to upload.
+
+    .. only:: training 
+
+        You will find images to use in the *Taxon Pages* directory in your :ref:`training-material`. Please upload these to your site.
 
 5.  Click on *Submit*
 

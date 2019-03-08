@@ -15,6 +15,32 @@ Edit node
 2. Click the *Edit* tab to open the edit overlay form.
 
 
+Bulk operations
+---------------
+
+1. Within :term:`Admin menu`, select *Content*
+
+2. Next to the content type, click *View* link.
+
+3. This page lists all the content of that particular type. At the top of the page you can apply filters to search for particular items of content.
+
+4. Under *Operations* you can select an action to run against these nodes, including:
+
+    - Change the author of content
+    - Delete item
+    - Make content sticky
+    - Make content unsticky
+    - Modify entity values
+    - Remove content from front page
+    - Unpublish content
+
+5. Next to each content row, is a checkbox. Select the rows you wish to run the bulk operation against.
+
+    .. figure:: /_static/ContentBulkOp.png
+
+6. Select *Execute*
+
+
 Grid editor
 -----------
 

@@ -12,6 +12,13 @@ To download the template file (for new data or for updating your data)
    scratchpad data)
 4. Open the downloaded excel file in your computer and edit it
 
+.. only:: training
+
+    5. An example taxon import file *TEMPLATE-import_into_taxon_description.xls* is included in the :ref:`training-material`. 
+
+
+
+
 **Complete the columns as follows:**
 
 -  **GUID**:
@@ -149,7 +156,7 @@ An overview of ecological aspects of the taxon.
 
 Description of the evolution of the taxon.
 
--  *’General description*:
+-  **General description**:
 
 A comprehensive description of the characteristics of the taxon. To be
 used primarily when many of the subject categories are treated together

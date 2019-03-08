@@ -13,7 +13,7 @@ The Admin menu will be present once you have logged in to a site. The menu items
 
 3. Under Content you can create and view the content on your site
 
-4. Structure has links to administer site taxonomies, character projects, relations and the various site layout options like blocks
+4. Structure has links to administer site taxonomies, content types, tools and the various site layout options like blocks
 
 5. Appearance is where you can edit the theme of your site
 

@@ -45,6 +45,7 @@ Contents
    content/blog
    content/forums
    content/newsletter
+   content/publishing
    content/finding-content
    content/recent-content
    content/custom-content

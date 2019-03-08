@@ -1,3 +1,7 @@
+:orphan:
+
+.. Google Scholar not available
+
 Linking to Google Scholar
 -------------------------
 

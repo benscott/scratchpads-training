@@ -43,10 +43,10 @@ a content type (e.g. References) To use the faceted search:
 Main menu
 ~~~~~~~~~
 
-Click on one of the content types in the :term:`Main menu` to find the
-respective data. 
+Click on one of the content types in the :term:`Main menu` to find the respective data. 
 
 Several content types, like literature and media gallery offer :term:`faceted browsing` for smarter and more powerful searching.
+
 
 Admin menu
 ~~~~~~~~~~
