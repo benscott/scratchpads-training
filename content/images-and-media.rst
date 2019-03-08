@@ -36,13 +36,14 @@ If you want to set image metadata (e.g. title, media gallery or taxonomic name),
 
 4. Change the *TITLE* if necessary and fill in the other fields as needed.
 
+    .. figure:: /_static/EditImage2.jpg
+
+5. To link the image to the classification and have it show on taxon pages enter a name in the *TAXONOMIC NAME* field. After typing a few letters you will get a list of names starting with these letters. Choose one of these.
+
   .. only:: training 
 
     For the training course, please tag the images from your :ref:`training-material` with the approrpriate taxa (based on the file name)
 
-    .. figure:: /_static/EditImage2.jpg
-
-5. To link the image to the classification and have it show on taxon pages enter a name in the *TAXONOMIC NAME* field. After typing a few letters you will get a list of names starting with these letters. Choose one of these.
 
 6. Click on the *Misc* vertical tab. Fill the *Media Gallery* you wish your image(s) to belong to
 
