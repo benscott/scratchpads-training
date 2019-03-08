@@ -1,4 +1,4 @@
-Customize shortcut menu
+Customise shortcut menu
 =======================
 
 The shortcut menu is the light grey bar beneath the :term:`Admin menu`. 
@@ -31,4 +31,4 @@ Edit shortcuts
 
 5.  You can also add new shortcuts by clicking on *Add shortcut* and entering the name and path for the new shortcut. For example, if you frequently add pages enter the NAME *Add page* and PATH “node/add/page”. Click *Save*.
 
-The default shortcut set is customized by the site maintainer but each user can create and customize his/her own set via the user account (Shortcut tab). The site maintainer also has the option to create different shortcut sets for different user groups.
+The default shortcut set is customised by the site maintainer but each user can create and customise his/her own set via the user account (Shortcut tab). The site maintainer also has the option to create different shortcut sets for different user groups.

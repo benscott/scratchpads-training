@@ -32,7 +32,7 @@ Enable or disable the filter
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Go to the page with the classification
-2. On the top of the block you will see a tickbox stating *Hide xxxxxx
+2. On the top of the block you will see a tick-box stating *Hide xxxxxx
    terms*
 3. Select to enable or deselect to disable this filter
 

@@ -22,7 +22,7 @@ The fields we use for biological classifications are:
 -  **Term description**: The term description field is usually not used
    for biological classifications.
 -  **GUID**: The global unique identifier for the term name. GUIDs can
-   be used to compare/synchronize different databases. Adding a GUID is
+   be used to compare/synchronise different databases. Adding a GUID is
    not required, you only need it if your names were generated from an
    established database and you want to be able to update your names
    from this database at a later stage. Note that the GUID really has to

@@ -11,7 +11,7 @@ We will create a block to display the subordinate taxa of a classification term,
 Enable views interface
 ----------------------
 
-If you havem't already, enable the views interface:
+If you haven't already, enable the views interface:
 
 1. Go to *Structure* in the :term:`Admin menu`, click on *Tools*, enable ‘Views’ and save.
 

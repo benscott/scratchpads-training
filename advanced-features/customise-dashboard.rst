@@ -1,4 +1,4 @@
-Customize dashboard
+Customise dashboard
 ===================
 
 Instructions
@@ -6,7 +6,7 @@ Instructions
 
 1. In the :term:`Admin menu` go to :term:`Dashboard`.
 
-2. By default the Dashboard shows the *Recent content* block. You can add more blocks by clicking on the *Customize dashboard* link at the top.
+2. By default the Dashboard shows the *Recent content* block. You can add more blocks by clicking on the *Customise dashboard* link at the top.
 
    .. figure:: /_static/Dashboard4.jpg
 

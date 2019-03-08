@@ -1,4 +1,4 @@
-Customize menus
+Customise menus
 ===============
 
 1.  In :term:`Admin menu` go to *Structure > Menus*.

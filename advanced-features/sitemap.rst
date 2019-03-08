@@ -1,7 +1,7 @@
 Sitemap
 =======
 
-*The sitemap provides a way for people to more eaily find and navigate content on your Scratchpad.*
+*The sitemap provides a way for people to more early find and navigate content on your Scratchpad.*
 
 1. Under :term:`Admin menu` go to *Structure > Tools* 
 

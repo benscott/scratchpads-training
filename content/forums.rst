@@ -62,7 +62,7 @@ Every forum can have multiple topics, or discussions. To create a new forum topi
 
 3. Click *Save*
 
-4. To reply to a forum topic, click to enter the forum topic dicussion.
+4. To reply to a forum topic, click to enter the forum topic discussion.
 
     .. figure:: /_static/Forums1.jpg
 

@@ -17,7 +17,7 @@ Enabling Revisions for content types
 
 If *Create new revision* is specified for a content type, every edit will, by default, create a new version of the page. 
 
-This can be overiden in the *Revision information* on a node - along with setting a more informative revision log message.
+This can be overridden in the *Revision information* on a node - along with setting a more informative revision log message.
 
 .. figure:: /_static/NodeRevision.png
 
@@ -39,4 +39,4 @@ can compare their differences:
    .. figure:: /_static/Revisions_compare.png
 
 
-Note: If a field accepts HTML input, it might be easiet to view changed without HTML tags - to remove the HTML tags click on *Marked down*
+Note: If a field accepts HTML input, it might be easiest to view changed without HTML tags - to remove the HTML tags click on *Marked down*

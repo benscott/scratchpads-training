@@ -143,7 +143,7 @@ The table view display requires you to chose which fields to include - you can s
    add link in the ‘Fields’ section. Click on the rearrange link. Drag
    and drop the fields into a better order. Apply.
 
-6. Slect *Save* to make the changes permanent.
+6. Select *Save* to make the changes permanent.
 
 
 Filter criteria
@@ -236,7 +236,7 @@ sort all items, we need to disable the pager.
 Sort criteria
 ~~~~~~~~~~~~~
 
-The default sort criterium is the creation date of the items, with the most
+The default sort criterion is the creation date of the items, with the most
 recent nodes at the top. You can change the sort criteria or add
 criteria in the ‘Sort criteria’ section.
 

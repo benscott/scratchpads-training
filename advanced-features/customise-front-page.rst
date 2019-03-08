@@ -1,4 +1,4 @@
-Customize front page
+Customise front page
 ====================
 
 Click on the *Home* icon to go to the front page. 
@@ -13,7 +13,7 @@ As part of the set-up workflow you will already have produced a welcome message 
 
 2. In *Welcome message* enter the text you want to display
 
-3. By defualt, the title will be *Welcome to Scratchpad training site*. You can change this by selecting *Overide welcome title* and entering your new title. 
+3. By default, the title will be *Welcome to Scratchpad training site*. You can change this by selecting *Override welcome title* and entering your new title. 
 
 
 Images

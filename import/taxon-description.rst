@@ -211,7 +211,7 @@ list.
 
 Description of the periodic movement of organisms from one locality to
 another (e.g., for breeding). Usually includes locality, timing, and
-hypothesized purpose.
+hypothesised purpose.
 
 -  **Molecular biology**:
 
@@ -221,7 +221,7 @@ is usually treated under genetics.
 -  **Morphology**:
 
 Description of the appearance of the taxon; e.g body plan, shape and
-color of external features, typical postures. May be referred to as or
+colour of external features, typical postures. May be referred to as or
 include habit, or anatomy.
 
 -  **Phylogeny**:

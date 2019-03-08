@@ -3,7 +3,7 @@ Phylogenetic tree
 
 *Scratchpads provide a custom field formatter for displaying NeXML as phylogenetic trees. NeXML is an exchange standard for representing phyloinformatic data.*
 
-*This field formatter can be added to existing or custom content types - in this examle we'll use a custom *Tree* content type.*
+*This field formatter can be added to existing or custom content types - in this example we'll use a custom *Tree* content type.*
 
 
 Creating a new ‘Tree’ Content Type

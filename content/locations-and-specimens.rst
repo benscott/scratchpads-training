@@ -65,7 +65,7 @@ Adding a specimen
    Each of these tabs has different fields that can optionally be completed in order to create a new specimen record.
 
 4. Fill out the fields under the *Required* tab. The two code fields
-   together with the catalog number generate a unique ID for this
+   together with the catalogue number generate a unique ID for this
    specimen record that is used as the specimen title
 
    .. figure:: /_static/AddSpecimenRequired.jpg

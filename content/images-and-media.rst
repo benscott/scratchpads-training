@@ -42,7 +42,7 @@ If you want to set image metadata (e.g. title, media gallery or taxonomic name),
 
   .. only:: training 
 
-    For the training course, please tag the images from your :ref:`training-material` with the approrpriate taxa (based on the file name)
+    For the training course, please tag the images from your :ref:`training-material` with the appropriate taxa (based on the file name)
 
 
 6. Click on the *Misc* vertical tab. Fill the *Media Gallery* you wish your image(s) to belong to

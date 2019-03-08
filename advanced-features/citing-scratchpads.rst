@@ -45,7 +45,7 @@ available to all pages in a site that have content that can be cited.
 -  The title of the node/page will be used as the title of the created
    snapshot
 
--  All snapshots are stored as pdf files with relevant annotation
+-  All snapshots are stored as PDF files with relevant annotation
    embedded
 
    .. figure:: /_static/Citemesnapshot.png

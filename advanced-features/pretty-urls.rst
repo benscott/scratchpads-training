@@ -1,4 +1,4 @@
-Enable pretty urls
+Enable pretty URLs
 ==================
 
 Enabling *Pretty URLs* generates user-friendly URL aliases, based on the

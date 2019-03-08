@@ -35,7 +35,7 @@ Set weight
 
 Either *Add* or *Edit* an item of content for the node type on which you have enabled setting weight.
 
-A new weight option is available in the node additonal options.
+A new weight option is available in the node additional options.
 
 .. figure:: /_static/Weight.png
 

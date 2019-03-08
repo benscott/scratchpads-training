@@ -16,7 +16,7 @@ Link your account
 1. From the :term:`Admin menu` go to *Configuration*
 2. Under *Web services* select *Twitter*
 3. Click *Go to Twitter and add an authenticated account*
-4. Follow instructions from the twitter service and click *Authorize app*
+4. Follow instructions from the twitter service and click *Authorise app*
 
 Embed a hashtag search
 ~~~~~~~~~~~~~~~~~~~~~~

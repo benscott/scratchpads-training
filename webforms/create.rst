@@ -63,7 +63,7 @@ up to 255 characters long. Add a component for entering the full name.
 -  In the ‘Display’ section you have several options for changing the
    display. For example if you add a field asking for the size of a
    poster, you could add “cm” in the ‘LABEL PLACED TO THE RIGHT OF THE
-   TEXTFIELD’ field, so that users know to give the size in centimeters.
+   TEXTFIELD’ field, so that users know to give the size in centimetres.
    By default the label is placed above the field. To save space select
    “Inline” as ‘LABEL DISPLAY’. For our “Full name” example component
    just select “Inline” display and none of the other display options.
@@ -88,7 +88,7 @@ Date field
 ''''''''''
 
 -  Add “Arrival date” as the new component name and select the “Date”
-   type. Enter “2000-05-29” as ‘START DATE’. Enable the pop-up calender
+   type. Enter “2000-05-29” as ‘START DATE’. Enable the pop-up calendar
    and choose “inline” for the label display. Save.
 
 Number field
@@ -107,7 +107,7 @@ Select option field
    safe keys. Safe keys ensure that each options is saved individually.
    For example if you publish a webform and at a later stage decide to
    change the wording of one of the options, you would only change the
-   readable option, not the save key. That way the system recognizes
+   readable option, not the save key. That way the system recognises
    that this is still the same option and this will help you later when
    you evaluate the results. The safe key is always on the left side and
    separated from the readable option by a pipe character. Save.

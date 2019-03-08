@@ -28,8 +28,8 @@ Creating the template file
 
 4. Fill the template file with your data and save
 
-Create the prepopulated template file
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Create the pre-populated template file
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. From the :term:`Admin menu` go to *Content*
 

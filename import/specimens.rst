@@ -72,7 +72,7 @@ The verbatim original representation of the starting date (and time)
 information for the collecting event. Enter dates as follows: for 25
 January 1979 enter 1979-01-25
 
--  **Date colelcted (End)**:
+-  **Date collected (End)**:
 
 The verbatim original representation of the end date (and time)
 information for the collecting event. Enter dates as follows: for 25
@@ -83,10 +83,10 @@ January 1979 enter 1979-01-25
 Date the specimen was taxonomically identified. Enter dates as follows:
 for 25 January 1979 enter 1979-01-25
 
--  **GebBank number**:
+-  **GenBank number**:
 
 GenBank Accession number(s) associated with the specimen referred to by
-the cataloged object.
+the catalogued object.
 
 -   **Identification qualifier**:
 
@@ -102,7 +102,7 @@ The name of the identifier (det.) as it is registered in your Scratchpad. If you
 
 -   **Institution code**:
 
-The institution code that holds the specimen referred to by the cataloged object. This is a required field.
+The institution code that holds the specimen referred to by the catalogued object. This is a required field.
 
 -   **Lifestage**:
 
@@ -126,7 +126,7 @@ An identifier given to the event in the field. Often serves as a link between fi
 
 -   **Other catalogue numbers**:
 
-A list (concatenated and separated) of previous or alternate fully qualified catalog numbers or other human-used identifiers for the same Occurrence, whether in the current or any other data set or collection.
+A list (concatenated and separated) of previous or alternate fully qualified catalogue numbers or other human-used identifiers for the same Occurrence, whether in the current or any other data set or collection.
 
 -   **Remarks**:
 

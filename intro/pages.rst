@@ -73,7 +73,7 @@ create a duplicate:
 Hierarchical pages
 ------------------
 
-Often, it's useful to create a hierchical structure of pages.
+Often, it's useful to create a hierarchical structure of pages.
 
 1. Create a new page
 

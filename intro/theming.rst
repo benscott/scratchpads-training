@@ -5,10 +5,10 @@ Theming
 Colour scheme
 =============
 
-To differentiate the look of your site from other Scratchpads you can change the color of the theme.
+To differentiate the look of your site from other Scratchpads you can change the colour of the theme.
 
-1. To change the theme color, click on the *Colours* icon in the lower right corner of your Scratchpad, to reveal the colour palette options.
-2. Select one of the colors.
+1. To change the theme colour, click on the *Colours* icon in the lower right corner of your Scratchpad, to reveal the colour palette options.
+2. Select one of the colours.
 3. Click *Save*.
 
 .. image:: ../_static/ThemeColor.jpg

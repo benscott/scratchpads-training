@@ -31,7 +31,7 @@ a content type (e.g. References) To use the faceted search:
 
 .. figure:: /_static/facet_less_than_20.png
 
--  Fields with more than 20 terms also provide an autocomplete search
+-  Fields with more than 20 terms also provide an auto-complete search
    box. Fill in the term and press enter or else select from the list
 
 .. figure:: /_static/facet_more_than_20.png
