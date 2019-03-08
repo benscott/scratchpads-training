@@ -34,7 +34,11 @@ If you want to set image metadata (e.g. title, media gallery or taxonomic name),
 
 3. Find the uplaoded image, and click *Edit*
 
-4. Change the *TITLE* if necessary and fill in the other fields as needed
+4. Change the *TITLE* if necessary and fill in the other fields as needed.
+
+  .. only:: training 
+
+    For the training course, please tag the images from your :ref:`training-material` with the approrpriate taxa (based on the file name)
 
     .. figure:: /_static/EditImage2.jpg
 
@@ -43,5 +47,8 @@ If you want to set image metadata (e.g. title, media gallery or taxonomic name),
 6. Click on the *Misc* vertical tab. Fill the *Media Gallery* you wish your image(s) to belong to
 
 7. Click *Save*
+
+
+
 
 If you upload several images, it is faster to use the :term:`Grid editor` to edit several images at once (see :doc:`/content/editing-content`)
