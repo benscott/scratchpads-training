@@ -3,7 +3,7 @@ Logging in
 
 1. Go to the URL of your training site.
 
-  .. figure:: ../_static/Login1.jpg
+  .. figure:: /_static/Login1.jpg
 
 2. The Log in button is in the upper right corner
 
@@ -12,7 +12,7 @@ Logging in
   | **Username**: username
   | **Password**: password
 
-  .. figure:: ../_static/Login2.jpg
+  .. figure:: /_static/Login2.jpg
 
 4. Accept the terms & conditions and save
 
@@ -28,4 +28,4 @@ Logging in
 
 7. Click save
 
-  .. figure:: ../_static/useraccount.jpg
+  .. figure:: /_static/Useraccount.jpg
