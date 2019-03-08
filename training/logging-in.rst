@@ -28,4 +28,4 @@ Logging in
 
 7. Click save
 
-  .. image:: ../_static/useraccount.jpg
+  .. figure:: ../_static/useraccount.jpg
