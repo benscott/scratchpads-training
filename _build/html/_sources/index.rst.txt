@@ -111,6 +111,7 @@ Contents
    :caption: Advanced features & customisation
 
    advanced-features/citing-scratchpads
+   advanced-features/customise-front-page
    advanced-features/customise-dashboard
    advanced-features/customise-menus
    advanced-features/customise-shortcut-menu
