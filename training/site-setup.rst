@@ -7,7 +7,7 @@ Click the *dashboard* link in the admin toolbar:
 
 .. image:: ../_static/Dashboard1.png
 
-You can see your site's setup status is 0%. Click *Finish site setup*
+You can see your site's setup status is 0%. Click *Finish setting up the site*
 
 .. image:: ../_static/Setup0.png
 
@@ -34,7 +34,7 @@ Use the icons of the rich text editor to format your text or to add links or ima
 
 Select a Creative Commons license to apply to the content of your site. The default license is “Attribution CC BY” but you can select a different license if you want. 
 
-See http://creativecommons.org/licenses/ for an explanation of licenses
+See http://creativecommons.org/licenses/ for an explanation of licenses.
 
 **Step 4: Category**
 

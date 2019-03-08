@@ -20,7 +20,7 @@ A vocabulary is a list of terms. These do not have to be biological classificati
 
     Taxonomy page showing “Add vocabulary” button near the page title
 
-3. Minimally enter the vocabulary *Name*.
+3. Enter the vocabulary *Name*.
 
    .. only:: training
 
@@ -50,7 +50,7 @@ you can add terms one by one by clicking on *Add terms* when you are on the *Tax
 
 .. only:: training
 
-    On this training course, we will first look at importing a classification :doc:`/classification/importing-classification`.
+    On this training course, we will first look at :doc:`/classification/importing-classification`.
 
 
 Troubleshooting

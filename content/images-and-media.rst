@@ -32,7 +32,7 @@ If you want to set image metadata (e.g. title, media gallery or taxonomic name),
 
 2. Select *Image*
 
-3. Find the uplaoded image, and click *Edit*
+3. Find the uploaded image, and click *Edit*
 
 4. Change the *TITLE* if necessary and fill in the other fields as needed.
 

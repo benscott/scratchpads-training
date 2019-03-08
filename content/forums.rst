@@ -12,7 +12,7 @@ Enabling the Forums module
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. From the :term:`Admin menu` bar go to *Structure > Tools*
-2. Find the *Core* section and enable *Forums*
+2. Find the *Forum* section and enable *Forums*
 3. Click *Save*
 
 Creating a forum

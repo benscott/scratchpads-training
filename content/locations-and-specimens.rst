@@ -1,13 +1,13 @@
 Locations and specimens
 =======================
 
-*Specimen data in a Scratchpad conform to the :term:`Darwin Core` (version
+Specimen data in a Scratchpad conform to the :term:`Darwin Core` (version
 1.2.1) format recommended by :term:`TDWG` (the Taxonomic Databases working
-group) and :term:`GBIF`.*
+group) and :term:`GBIF`.
 
-*They are separated into two content types: location
+They are separated into two content types: location
 and specimen, which allows you to connect different specimens at the
-same location.*
+same location.
 
 
 Adding a location

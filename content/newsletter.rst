@@ -20,8 +20,12 @@ Configuring Simplenews
 
    Alternatively, from the :term:`Admin menu` bar go to *Configuration >  Newsletters*
 
-2. Newsletters are organised into categories, each category with their own settings. 
+2. Newsletters are organised into categories, each category with their own settings. Some settings useful to change:
 
+    - From name
+    - Subject
+
+3. The *Subscribe new account* setting controls whether new signs are automatically added to the newsletter mailing.
 
 Create a newsletter
 ~~~~~~~~~~~~~~~~~~~
@@ -30,7 +34,7 @@ Create a newsletter
 
 2. Under *Simplenews newsletter* select *Add*
 
-3. Enter a NAME and DESCRIPTION.
+3. Enter a TITLE and DESCRIPTION.
 
 4. Select the newsletter category. 
 
@@ -75,6 +79,6 @@ To view and edit user subscriptions:
 
 To subscribe/unsubscribe several users at once click *Mass subscribe* or *Mass unsubscribe* blue links at the top, enter the email addresses of the users (these have to be the email addresses of users that are allowed to login)
 
-   .. figure:: /_static/SendNewsletter.jpg
+   .. figure:: /_static/Newsletter.png
 
 To subscribe a single user, click *Manage subscriptions* link available on a user profile page. 

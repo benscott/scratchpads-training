@@ -11,7 +11,7 @@ Creating a new ‘Tree’ Content Type
 
 1. From the :term:`Admin menu` go to *Structure*
 2. Click *Content Types* then *Add content type*
-3. Enter a *TITLE*, e.g. “Tree” and click *Save and manage fields*
+3. Enter a *TITLE*, e.g. “Tree” and click *Save and add fields*
 4. In the section *Add new field* provide a label, e.g. “Tree”
 5. Select the *Field type* “Long Text” then click *Save*
 6. Under *Manage display* you should set the *Format* to Newick/NeXML

@@ -28,6 +28,7 @@ Adding a logo
 1. From the Admin menu go to Appearance > Settings
 2. Disable *Use the default Shortcut icon*
 3. Click Browse to find the desired logo in your computer 
+4. Click *Save*
 
 .. image:: ../_static/UploadLogo.jpg
 

@@ -1,7 +1,7 @@
 Importing a classification
 ==========================
 
-Scratchpads provides a service to import classifcations from `Catalogue of Life`_.
+Scratchpads provides a service to import classifications from `Catalogue of Life`_.
 
 The names provided by this service are currently a little out of date, from 2014 and 2015, but will be updated soon.
 

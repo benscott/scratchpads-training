@@ -66,15 +66,8 @@ terms a field like this is called a *Term reference*.
 
 3. Click *Save*
 
-4. Select whether users should be required to fill this field, add help
-   text and choose to how many taxonomic names (NUMBER OF VALUES) a node
-   of this content type can be linked. Usually this will be *unlimited*.
-   The *field_taxonomic_name* field by default links to any biological
-   classification on the site and you can’t change this.
+NOTE: These existing fields are locked, so you will not be able to edit their settings (make them required, for example).
 
-    .. figure:: /_static/EditField.jpg
-
--  Click *Save*
 
 Node reference fields
 ^^^^^^^^^^^^^^^^^^^^^
@@ -93,9 +86,6 @@ reference*
    field_reference (Reference)* and in the *Form element to edit the
    data* drop down menu select *Select list*
 2. Click *Save*
-3. Make this field a *Required field*. The *NUMBER OF VALUES* should be
-   “1” because each literature mining node should link to only one
-   biblio node
 
 Text fields
 ^^^^^^^^^^^
@@ -166,9 +156,9 @@ into groups. Groups can be shown as boxes around the fields (Fieldset)
 or for example as horizontal tabs in the view and edit mode. For the few
 fields we have in this content type groups are not really necessary, but
 we will add two anyway to demonstrate horizontal tabs. Each horizontal
-tab (*horizontal tab item*) is a group and all tabs together also form a
+tab (*horizontal tab*) is a group and all tabs together also form a
 group (*horizontal tabs group*). First we need to create a horizontal
-tab group to which we then add horizontal tab items.
+tab group to which we then each *Horizontal tab*.
 
 1.  Go to *Add new group*. As *Label* enter “Horizontal tabs” and as
     *Group name* enter “horizontal_tabs”
@@ -180,7 +170,7 @@ tab group to which we then add horizontal tab items.
 4.  Go to *Add new group*. As *Label* enter “Reference data” and as
     *Group name* enter “reference_data”
 
-5.  In the drop down menu select ’’Horizontal tab item"
+5.  In the drop down menu select *Horizontal tab*
 
 6.  Click *Save*
 
@@ -189,7 +179,7 @@ tab group to which we then add horizontal tab items.
 
 8.  Click *Save*
 
-9.  Create another horizontal tab item called “Text mining” and move the
+9.  Create another *horizontal tab* called “Text mining” and move the
     *Literature mining category* and *Text* fields into it
 
 10. Click *Save*
@@ -233,7 +223,7 @@ field type
     .. figure:: /_static/LiteratureMining3.jpg
 
 
-At the point where a new content type has been saved a menu item is added to the :term:`Main menu`. By default this page just lists the titles of literature mining nodes with a link to the respective node. To improve this page and change it into, for example, a matrix, you need to edit the view. See :doc:/views/ for more info
+At the point where a new content type has been saved a menu item is added to the :term:`Main menu`. By default this page just lists the titles of literature mining nodes with a link to the respective node. To improve this page and change it into, for example, a matrix, you need to edit the view. See :doc:`/views-and-blocks/views` for more info
 
 
 Menu

@@ -12,7 +12,7 @@ Instructions
 1. To enable the blog go to *Structure* in the :term:`Admin menu` and click
    on *Tools*. 
    
-   In the *Core* section enable blog and save.
+   In the *Blog* section enable blog and save.
 
    .. figure:: /_static/BlogTools.png
 
